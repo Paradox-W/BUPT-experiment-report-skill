@@ -1,0 +1,6 @@
+interface:
+  display_name: "Experiment Report LaTeX"
+  short_description: "BUPT-style LaTeX lab reports"
+  default_prompt: "Use $exp-report-latex-skill to create a polished Chinese experiment report with a BUPT-style cover, page frame, and compiled PDF."
+policy:
+  allow_implicit_invocation: true
